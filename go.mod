@@ -1,3 +1,3 @@
-module github.com/RoseKindom/Software-Engineering-Course/v2
+module SoftwareEngineering
 
 go 1.20
